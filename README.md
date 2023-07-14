@@ -1,1 +1,1 @@
-Landing page de uma padaria desenvolvida como atividade para o programa Elas na Tech. 🚀
+Landing page de um convite de aniversário desenvolvida como atividade para o programa Elas na Tech. 🚀
